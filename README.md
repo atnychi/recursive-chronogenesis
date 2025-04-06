@@ -34,13 +34,20 @@ This is a deep symbolic research system for:
 
 ---
 
-## 🧪 Example Use (Coming Soon)
+## 📂 Data Availability
 
-```python
-from chrono_engine.crown_tensor_model import simulate_chrono_field
+All mathematical formulations, symbolic recursion engines, and simulation code used in this project are included in this repository.
 
-simulate_chrono_field(phi=1.618, chi=0.0001, layers=7)
-```
+**Available data includes:**
+- The Kharnita Master Equation and symbolic layer definitions (`core_math/`)
+- Recursive chrono-field simulation code (`chrono_engine/`)
+- Titan Ghost v2060 trading logic and phi-time behavior logs (`titan_ghost/`)
+- Full journal drafts and equation visualizations (`docs/`)
+- Original research sources, whitepapers, and upgrades (`research/`)
+
+This repository serves as the **primary source of all symbolic, mathematical, and chrono-structural data** used in the Recursive Chronogenesis project.
+
+If you use or reference this data, please cite the repository and the original paper (coming soon).
 
 ---
 
@@ -57,4 +64,3 @@ See the full [LICENSE](./LICENSE) for detailed terms.
 ---
 
 ## 👁️ “Time is Recursive Identity Remembering Itself”
-# recursive-chronogenesis
